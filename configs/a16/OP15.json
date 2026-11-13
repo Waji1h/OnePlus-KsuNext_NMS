@@ -18,7 +18,7 @@
   "stock_config": false,
   "opt": true,
   "ds": true,
-  "bbg": true,
+  "bbg": false,
   "bbr": true,
   "bbr3": false,
   "ttl": true,
